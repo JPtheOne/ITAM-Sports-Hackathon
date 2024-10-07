@@ -1,4 +1,4 @@
-# Repositorio oficial para nuestra propuesta de solución en el Itam Sports Hackathon 2024
+#Itam Sports Hackathon 2024
 
 Este es el repositorio oficial donde presentamos nuestra propuesta de solución para el Itam Sports Hackathon 2024.
 
