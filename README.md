@@ -42,8 +42,6 @@ En el marco del ITAM Sports Hackathon 2024, desarrollamos una solución integral
 * **Juan Pablo Morales Durante** - *Desarollo de Interfaz en React* - [jpmorales](https://github.com/jpmorales)
 * **Nombre de colaborador** - *Documentación* - [colaborador](#link)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/tuusuario/ItamSportsHackathon2024/contributors) que han participado en este proyecto.
-
 ---
 
 ⌨️ con ❤️ por [jpmorales](https://github.com/jpmorales) 😊
