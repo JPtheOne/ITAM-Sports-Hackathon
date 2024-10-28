@@ -3,8 +3,9 @@
 Este es el repositorio oficial donde presentamos nuestra propuesta "DataGol" para el ITAM Sports Hackathon 2024.
 
 <p align="center">
-  <img src="https://media.tenor.com/7EWFdcNtgRsAAAAM/nico-williams-spain.gif" alt="nico-williams-celebration" width=400px>
+  <img src="https://imagenes.heraldo.es/uploads/imagenes/2024/07/09/eurocopa-2024-semifinales-partido-espana-francia-en-el-allianz-arena-de-munich.gif" alt="eurocopa-2024-semifinal-espana-francia" width=400px>
 </p>
+
 
 ## Repositorios de la Solución 📂
 
@@ -38,10 +39,10 @@ En el marco del ITAM Sports Hackathon 2024, desarrollamos una solución integral
 2. Sigue las instrucciones específicas de cada módulo en sus respectivos repositorios.
 
 ## Autores ✒️
-
-* **Juan Pablo Morales Durante** - *Desarollo de Interfaz en React* - [jpmorales](https://github.com/jpmorales)
-* **Nombre de colaborador** - *Documentación* - [colaborador](#link)
-
+* **Andrés Vizcaya Santacruz** - *Ciencia de Datos (UDLAP)* y
+* **[Carlos Javier Galan Zavala](https://github.com/TheMexicanTarzan)** - *Ciencia de Datos (UDLAP)*: [Procesamiento de datos, Minería de datos y Creación de Modelos](https://github.com/TheMexicanTarzan/DataGol-Analytics)
+* **[Juan Pablo Morales](https://github.com/JPtheOne)** - *Ing. en Sistemas (UDLAP)*: [Desarollo de Interfaz en React](https://github.com/JPtheOne/DataGol-Interfaz.git)
+  
 ---
 
-⌨️ con ❤️ por [jpmorales](https://github.com/jpmorales) 😊
+README.md⌨️ con ❤️ por [JP](https://github.com/JPtheOne) 😊
