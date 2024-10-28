@@ -1,4 +1,4 @@
-# Itam Sports Hackathon 2024
+# Itam Sports Hackathon 2024 ⚽
 
 Este es el repositorio oficial donde presentamos nuestra propuesta "DataGol" para el ITAM Sports Hackathon 2024.
 
@@ -11,21 +11,25 @@ Este es el repositorio oficial donde presentamos nuestra propuesta "DataGol" par
 
 Nuestro proyecto se compone de varios módulos. A continuación, puedes encontrar una breve descripción y los enlaces a cada uno:
 
-### Interfaz de Usuario - DataGol
+### Documentación 📚
+Aquí viene la presentación técnica explicando todos los detalles del proyecto ( en este mismo repo):
+- [Documentación]([https://github.com/JPtheOne/DataGol-Interfaz.git](https://github.com/JPtheOne/ITAM-Sports-Hackathon))
+
+### DataGol - UI 📱
 
 Este repositorio contiene la interfaz de baja fidelidad desarrollada en React. Puedes acceder a más detalles sobre la instalación y configuración en el siguiente enlace:
 
 - [DataGol Interfaz](https://github.com/JPtheOne/DataGol-Interfaz.git)
 
-### Otros módulos
+### DataGol - Analytics 📈
 
-* (Agrega aquí los enlaces y descripciones de otros módulos que forman parte del proyecto)
+* DataGol es un proyecto de análisis de fútbol que utiliza machine learning y estadísticas avanzadas para clasificar jugadores y optimizar alineaciones, maximizando las posibilidades de goles según el oponente.
 
+- [DataGol Analytics](https://github.com//TheMexicanTarzan/DataGol-Analytics.git)
+  
 ## Descripción de la Solución 💡
+DataGol es un proyecto orientado a la categorización de jugadores de fútbol en base a su estilo de juego. El objetivo principal es identificar una alineación óptima que, dada la alineación del oponente, maximice la esperanza de goles a favor. Este análisis se realiza independientemente del rol típico de los jugadores y se basa en estadísticas detalladas de sus acciones en el campo.
 
-En el marco del ITAM Sports Hackathon 2024, desarrollamos una solución integral para mejorar el análisis de datos deportivos. Nuestra propuesta se basa en…
-
-(Completa aquí con una breve descripción de la solución y los objetivos que persigue el proyecto).
 
 ## Instrucciones de Instalación 🚀
 
@@ -39,9 +43,11 @@ En el marco del ITAM Sports Hackathon 2024, desarrollamos una solución integral
 2. Sigue las instrucciones específicas de cada módulo en sus respectivos repositorios.
 
 ## Autores ✒️
-* **Andrés Vizcaya Santacruz** - *Ciencia de Datos (UDLAP)* y
-* **[Carlos Javier Galan Zavala](https://github.com/TheMexicanTarzan)** - *Ciencia de Datos (UDLAP)*: [Procesamiento de datos, Minería de datos y Creación de Modelos](https://github.com/TheMexicanTarzan/DataGol-Analytics)
-* **[Juan Pablo Morales](https://github.com/JPtheOne)** - *Ing. en Sistemas (UDLAP)*: [Desarollo de Interfaz en React](https://github.com/JPtheOne/DataGol-Interfaz.git)
+
+* **Andrés Vizcaya Santacruz** - *Ciencia de Datos (UDLAP)* - Procesamiento de datos, Minería de datos y Creación de Modelos y
+*  **[Carlos Javier Galan Zavala](https://github.com/TheMexicanTarzan)** - *Ciencia de Datos (UDLAP)*: [Procesamiento de datos, Minería de datos y Creación de Modelos](https://github.com/TheMexicanTarzan/DataGol-Analytics)
+* [![Juan Pablo Morales](https://github.com/JPtheOne.png?size=40)](https://github.com/JPtheOne) **[Juan Pablo Morales](https://github.com/JPtheOne)** - *Ing. en Sistemas (UDLAP)*: [Desarrollo de Interfaz en React](https://github.com/JPtheOne/DataGol-Interfaz.git)
+
   
 ---
 
