@@ -13,7 +13,7 @@ Nuestro proyecto se compone de varios módulos. A continuación, puedes encontra
 
 ### Documentación 📚
 Aquí viene la presentación técnica explicando todos los detalles del proyecto ( en este mismo repo):
-- [Documentación]([https://github.com/JPtheOne/DataGol-Interfaz.git](https://github.com/JPtheOne/ITAM-Sports-Hackathon))
+- [[Documentación]([https://github.com/JPtheOne/DataGol-Interfaz.git](https://github.com/JPtheOne/ITAM-Sports-Hackathon))](https://www.canva.com/design/DAGUuBuKaGY/zMOQSZP3J6Ar9ZEKg7df9w/edit?utm_content=DAGUuBuKaGY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### DataGol - UI 📱
 
